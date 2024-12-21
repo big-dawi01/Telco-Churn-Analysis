@@ -14,4 +14,5 @@ High rate of customer churn makes it difficult for a company to grow and survive
 The dataset of a fictional Telco company was imported into Power BI, this dataset contains details about customer demographics, services and churn metrics.
 New fields were created to calculate other important metrics like churn rate, revenue lost and other categories in order to get more insight.
 
-##**Result**
+## **Result**
+This 

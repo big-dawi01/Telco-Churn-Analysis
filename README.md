@@ -20,7 +20,7 @@ This dataset contains important information about the customer which include:
   
 ## **Churn Analysis Process**
 The dataset of a fictional Telco company was imported into Power BI, this dataset contains details about customer demographics, services and churn metrics.
-New fields were created to calculate other important metrics like churn rate, revenue lost and other categories in order to get more insight.
+New fields were created to calculate other important metrics like churn rate and other categories in order to get more insight into the factors influencing customers decision to churn.
 
 ## **Result**
 - Churning is rampant among customers with no online security and device protection probably.

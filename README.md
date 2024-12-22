@@ -15,4 +15,8 @@ The dataset of a fictional Telco company was imported into Power BI, this datase
 New fields were created to calculate other important metrics like churn rate, revenue lost and other categories in order to get more insight.
 
 ## **Result**
-This 
+- Churning is rampant among customers with no online security and device protection
+- Bad customer service and better offers from competitors are major boosters of customer churn
+- Senior citizens and customers without dependents have a higher number of churned customers
+- Customers using the fiber optic service are more likely to churn
+- Electronic check users are more likely to churn

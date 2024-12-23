@@ -37,3 +37,4 @@ New fields were created to calculate other important metrics like churn rate and
 - Trained and professional personnels should be recruited on the customer support team in order to improve customer experience.
 
 ## **Dashboard**
+https://github.com/big-dawi01/Telco-Churn-Analysis/blob/07fe3c48bd2c5eee2dae5b498f867999edd6f9a7/telco%20project_page-0001.jpg
